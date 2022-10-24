@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "53WgZgfm8huuyzELAobaRrB7D7qneP4WRJWuw6z/hM0N7BeOX8yMBaQ3UDtVz1b3VNzL1ngwtIo0lJFr3JZ9NA==",
+  "success": true,
+  "projectFilePath": "C:\\fastcampus\\FirstProject\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kekek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

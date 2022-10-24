@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_052_Operator_break\bin\Debug\_052_Operator_break.exe.config
+C:\fastcampus\FirstProject\_052_Operator_break\bin\Debug\_052_Operator_break.exe
+C:\fastcampus\FirstProject\_052_Operator_break\bin\Debug\_052_Operator_break.pdb
+C:\fastcampus\FirstProject\_052_Operator_break\obj\Debug\_052_Operator_break.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_052_Operator_break\obj\Debug\_052_Operator_break.exe
+C:\fastcampus\FirstProject\_052_Operator_break\obj\Debug\_052_Operator_break.pdb

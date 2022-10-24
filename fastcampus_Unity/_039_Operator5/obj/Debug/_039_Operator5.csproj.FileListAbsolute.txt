@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_039_Operator5\bin\Debug\_039_Operator5.exe.config
+C:\fastcampus\FirstProject\_039_Operator5\bin\Debug\_039_Operator5.exe
+C:\fastcampus\FirstProject\_039_Operator5\bin\Debug\_039_Operator5.pdb
+C:\fastcampus\FirstProject\_039_Operator5\obj\Debug\_039_Operator5.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_039_Operator5\obj\Debug\_039_Operator5.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_039_Operator5\obj\Debug\_039_Operator5.exe
+C:\fastcampus\FirstProject\_039_Operator5\obj\Debug\_039_Operator5.pdb

@@ -1,0 +1,2 @@
+C:\fastcampus\FirstProject\_030_ReadLine2\obj\Debug\_030_ReadLine2.exe
+C:\fastcampus\FirstProject\_030_ReadLine2\obj\Debug\_030_ReadLine2.pdb

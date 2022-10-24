@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_024_Data_cast\bin\Debug\_024_Data_cast.exe.config
+C:\fastcampus\FirstProject\_024_Data_cast\bin\Debug\_024_Data_cast.exe
+C:\fastcampus\FirstProject\_024_Data_cast\bin\Debug\_024_Data_cast.pdb
+C:\fastcampus\FirstProject\_024_Data_cast\obj\Debug\_024_Data_cast.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_024_Data_cast\obj\Debug\_024_Data_cast.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_024_Data_cast\obj\Debug\_024_Data_cast.exe
+C:\fastcampus\FirstProject\_024_Data_cast\obj\Debug\_024_Data_cast.pdb

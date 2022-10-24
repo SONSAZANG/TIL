@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_030_ReadLine\bin\Debug\_030_ReadLine.exe.config
+C:\fastcampus\FirstProject\_030_ReadLine\bin\Debug\_030_ReadLine.exe
+C:\fastcampus\FirstProject\_030_ReadLine\bin\Debug\_030_ReadLine.pdb
+C:\fastcampus\FirstProject\_030_ReadLine\obj\Debug\_030_ReadLine.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_030_ReadLine\obj\Debug\_030_ReadLine.exe
+C:\fastcampus\FirstProject\_030_ReadLine\obj\Debug\_030_ReadLine.pdb

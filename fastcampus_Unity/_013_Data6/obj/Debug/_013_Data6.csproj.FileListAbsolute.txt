@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_013_Data6\bin\Debug\_013_Data6.exe.config
+C:\fastcampus\FirstProject\_013_Data6\bin\Debug\_013_Data6.exe
+C:\fastcampus\FirstProject\_013_Data6\bin\Debug\_013_Data6.pdb
+C:\fastcampus\FirstProject\_013_Data6\obj\Debug\_013_Data6.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_013_Data6\obj\Debug\_013_Data6.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_013_Data6\obj\Debug\_013_Data6.exe
+C:\fastcampus\FirstProject\_013_Data6\obj\Debug\_013_Data6.pdb

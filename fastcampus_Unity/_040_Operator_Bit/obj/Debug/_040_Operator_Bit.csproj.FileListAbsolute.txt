@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_040_Operator_Bit\bin\Debug\_040_Operator_Bit.exe.config
+C:\fastcampus\FirstProject\_040_Operator_Bit\bin\Debug\_040_Operator_Bit.exe
+C:\fastcampus\FirstProject\_040_Operator_Bit\bin\Debug\_040_Operator_Bit.pdb
+C:\fastcampus\FirstProject\_040_Operator_Bit\obj\Debug\_040_Operator_Bit.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_040_Operator_Bit\obj\Debug\_040_Operator_Bit.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_040_Operator_Bit\obj\Debug\_040_Operator_Bit.exe
+C:\fastcampus\FirstProject\_040_Operator_Bit\obj\Debug\_040_Operator_Bit.pdb

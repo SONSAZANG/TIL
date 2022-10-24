@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_021_Data_nullable\bin\Debug\_021_Data_nullable.exe.config
+C:\fastcampus\FirstProject\_021_Data_nullable\bin\Debug\_021_Data_nullable.exe
+C:\fastcampus\FirstProject\_021_Data_nullable\bin\Debug\_021_Data_nullable.pdb
+C:\fastcampus\FirstProject\_021_Data_nullable\obj\Debug\_021_Data_nullable.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_021_Data_nullable\obj\Debug\_021_Data_nullable.exe
+C:\fastcampus\FirstProject\_021_Data_nullable\obj\Debug\_021_Data_nullable.pdb

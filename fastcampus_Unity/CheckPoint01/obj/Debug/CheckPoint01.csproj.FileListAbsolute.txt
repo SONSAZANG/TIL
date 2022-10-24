@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\CheckPoint01\bin\Debug\CheckPoint01.exe.config
+C:\fastcampus\FirstProject\CheckPoint01\bin\Debug\CheckPoint01.exe
+C:\fastcampus\FirstProject\CheckPoint01\bin\Debug\CheckPoint01.pdb
+C:\fastcampus\FirstProject\CheckPoint01\obj\Debug\CheckPoint01.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\CheckPoint01\obj\Debug\CheckPoint01.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\CheckPoint01\obj\Debug\CheckPoint01.exe
+C:\fastcampus\FirstProject\CheckPoint01\obj\Debug\CheckPoint01.pdb

@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_053_Oeprator_continue\bin\Debug\_053_Oeprator_continue.exe.config
+C:\fastcampus\FirstProject\_053_Oeprator_continue\bin\Debug\_053_Oeprator_continue.exe
+C:\fastcampus\FirstProject\_053_Oeprator_continue\bin\Debug\_053_Oeprator_continue.pdb
+C:\fastcampus\FirstProject\_053_Oeprator_continue\obj\Debug\_053_Oeprator_continue.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_053_Oeprator_continue\obj\Debug\_053_Oeprator_continue.exe
+C:\fastcampus\FirstProject\_053_Oeprator_continue\obj\Debug\_053_Oeprator_continue.pdb

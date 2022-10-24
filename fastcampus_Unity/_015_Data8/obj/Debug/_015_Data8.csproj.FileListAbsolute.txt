@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_015_Data8\bin\Debug\_015_Data8.exe.config
+C:\fastcampus\FirstProject\_015_Data8\bin\Debug\_015_Data8.exe
+C:\fastcampus\FirstProject\_015_Data8\bin\Debug\_015_Data8.pdb
+C:\fastcampus\FirstProject\_015_Data8\obj\Debug\_015_Data8.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_015_Data8\obj\Debug\_015_Data8.exe
+C:\fastcampus\FirstProject\_015_Data8\obj\Debug\_015_Data8.pdb

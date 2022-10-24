@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_047_Operator_while\bin\Debug\_047_Operator_while.exe.config
+C:\fastcampus\FirstProject\_047_Operator_while\bin\Debug\_047_Operator_while.exe
+C:\fastcampus\FirstProject\_047_Operator_while\bin\Debug\_047_Operator_while.pdb
+C:\fastcampus\FirstProject\_047_Operator_while\obj\Debug\_047_Operator_while.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_047_Operator_while\obj\Debug\_047_Operator_while.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_047_Operator_while\obj\Debug\_047_Operator_while.exe
+C:\fastcampus\FirstProject\_047_Operator_while\obj\Debug\_047_Operator_while.pdb

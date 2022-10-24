@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_034_Operator1\bin\Debug\_034_Operator1.exe.config
+C:\fastcampus\FirstProject\_034_Operator1\bin\Debug\_034_Operator1.exe
+C:\fastcampus\FirstProject\_034_Operator1\bin\Debug\_034_Operator1.pdb
+C:\fastcampus\FirstProject\_034_Operator1\obj\Debug\_034_Operator1.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_034_Operator1\obj\Debug\_034_Operator1.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_034_Operator1\obj\Debug\_034_Operator1.exe
+C:\fastcampus\FirstProject\_034_Operator1\obj\Debug\_034_Operator1.pdb

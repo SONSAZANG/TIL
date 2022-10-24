@@ -1,0 +1,13 @@
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.GeneratedMSBuildEditorConfig.editorconfig
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.AssemblyInfoInputs.cache
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.AssemblyInfo.cs
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_062_Funcswap\bin\Debug\netcoreapp3.1\_062_Funcswap.exe
+C:\fastcampus\FirstProject\_062_Funcswap\bin\Debug\netcoreapp3.1\_062_Funcswap.deps.json
+C:\fastcampus\FirstProject\_062_Funcswap\bin\Debug\netcoreapp3.1\_062_Funcswap.runtimeconfig.json
+C:\fastcampus\FirstProject\_062_Funcswap\bin\Debug\netcoreapp3.1\_062_Funcswap.runtimeconfig.dev.json
+C:\fastcampus\FirstProject\_062_Funcswap\bin\Debug\netcoreapp3.1\_062_Funcswap.dll
+C:\fastcampus\FirstProject\_062_Funcswap\bin\Debug\netcoreapp3.1\_062_Funcswap.pdb
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.dll
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.pdb
+C:\fastcampus\FirstProject\_062_Funcswap\obj\Debug\netcoreapp3.1\_062_Funcswap.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_026_Data_Parse\bin\Debug\_026_Data_Parse.exe.config
+C:\fastcampus\FirstProject\_026_Data_Parse\bin\Debug\_026_Data_Parse.exe
+C:\fastcampus\FirstProject\_026_Data_Parse\bin\Debug\_026_Data_Parse.pdb
+C:\fastcampus\FirstProject\_026_Data_Parse\obj\Debug\_026_Data_Parse.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_026_Data_Parse\obj\Debug\_026_Data_Parse.exe
+C:\fastcampus\FirstProject\_026_Data_Parse\obj\Debug\_026_Data_Parse.pdb

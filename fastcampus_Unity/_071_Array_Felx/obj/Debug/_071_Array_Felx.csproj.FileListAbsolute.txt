@@ -1,0 +1,8 @@
+C:\fastcampus\FirstProject\_071_Array_Felx\bin\Debug\_071_Array_Felx.exe.config
+C:\fastcampus\FirstProject\_071_Array_Felx\bin\Debug\_071_Array_Felx.exe
+C:\fastcampus\FirstProject\_071_Array_Felx\bin\Debug\_071_Array_Felx.pdb
+C:\fastcampus\FirstProject\_071_Array_Felx\obj\Debug\_071_Array_Felx.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_071_Array_Felx\obj\Debug\_071_Array_Felx.csproj.SuggestedBindingRedirects.cache
+C:\fastcampus\FirstProject\_071_Array_Felx\obj\Debug\_071_Array_Felx.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_071_Array_Felx\obj\Debug\_071_Array_Felx.exe
+C:\fastcampus\FirstProject\_071_Array_Felx\obj\Debug\_071_Array_Felx.pdb

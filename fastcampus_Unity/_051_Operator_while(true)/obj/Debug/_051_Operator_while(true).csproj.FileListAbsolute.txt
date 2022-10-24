@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_051_Operator_while(true)\bin\Debug\_051_Operator_while(true).exe.config
+C:\fastcampus\FirstProject\_051_Operator_while(true)\bin\Debug\_051_Operator_while(true).exe
+C:\fastcampus\FirstProject\_051_Operator_while(true)\bin\Debug\_051_Operator_while(true).pdb
+C:\fastcampus\FirstProject\_051_Operator_while(true)\obj\Debug\_051_Operator_while(true).csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_051_Operator_while(true)\obj\Debug\_051_Operator_while(true).exe
+C:\fastcampus\FirstProject\_051_Operator_while(true)\obj\Debug\_051_Operator_while(true).pdb

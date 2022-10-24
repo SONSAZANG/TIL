@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_054_Operator_goto\bin\Debug\_054_Operator_goto.exe.config
+C:\fastcampus\FirstProject\_054_Operator_goto\bin\Debug\_054_Operator_goto.exe
+C:\fastcampus\FirstProject\_054_Operator_goto\bin\Debug\_054_Operator_goto.pdb
+C:\fastcampus\FirstProject\_054_Operator_goto\obj\Debug\_054_Operator_goto.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_054_Operator_goto\obj\Debug\_054_Operator_goto.exe
+C:\fastcampus\FirstProject\_054_Operator_goto\obj\Debug\_054_Operator_goto.pdb

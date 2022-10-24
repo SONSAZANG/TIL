@@ -1,0 +1,13 @@
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.GeneratedMSBuildEditorConfig.editorconfig
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.AssemblyInfoInputs.cache
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.AssemblyInfo.cs
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\CheckPoint02\bin\Debug\netcoreapp3.1\CheckPoint02.exe
+C:\fastcampus\FirstProject\CheckPoint02\bin\Debug\netcoreapp3.1\CheckPoint02.deps.json
+C:\fastcampus\FirstProject\CheckPoint02\bin\Debug\netcoreapp3.1\CheckPoint02.runtimeconfig.json
+C:\fastcampus\FirstProject\CheckPoint02\bin\Debug\netcoreapp3.1\CheckPoint02.runtimeconfig.dev.json
+C:\fastcampus\FirstProject\CheckPoint02\bin\Debug\netcoreapp3.1\CheckPoint02.dll
+C:\fastcampus\FirstProject\CheckPoint02\bin\Debug\netcoreapp3.1\CheckPoint02.pdb
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.dll
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.pdb
+C:\fastcampus\FirstProject\CheckPoint02\obj\Debug\netcoreapp3.1\CheckPoint02.genruntimeconfig.cache

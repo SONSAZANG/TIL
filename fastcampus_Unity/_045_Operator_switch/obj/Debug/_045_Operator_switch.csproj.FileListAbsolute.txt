@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_045_Operator_switch\bin\Debug\_045_Operator_switch.exe.config
+C:\fastcampus\FirstProject\_045_Operator_switch\bin\Debug\_045_Operator_switch.exe
+C:\fastcampus\FirstProject\_045_Operator_switch\bin\Debug\_045_Operator_switch.pdb
+C:\fastcampus\FirstProject\_045_Operator_switch\obj\Debug\_045_Operator_switch.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_045_Operator_switch\obj\Debug\_045_Operator_switch.exe
+C:\fastcampus\FirstProject\_045_Operator_switch\obj\Debug\_045_Operator_switch.pdb

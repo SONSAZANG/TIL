@@ -1,0 +1,8 @@
+C:\fastcampus\FirstProject\_072_Array_Func1\bin\Debug\_072_Array_Func1.exe.config
+C:\fastcampus\FirstProject\_072_Array_Func1\bin\Debug\_072_Array_Func1.exe
+C:\fastcampus\FirstProject\_072_Array_Func1\bin\Debug\_072_Array_Func1.pdb
+C:\fastcampus\FirstProject\_072_Array_Func1\obj\Debug\_072_Array_Func1.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_072_Array_Func1\obj\Debug\_072_Array_Func1.csproj.SuggestedBindingRedirects.cache
+C:\fastcampus\FirstProject\_072_Array_Func1\obj\Debug\_072_Array_Func1.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_072_Array_Func1\obj\Debug\_072_Array_Func1.exe
+C:\fastcampus\FirstProject\_072_Array_Func1\obj\Debug\_072_Array_Func1.pdb

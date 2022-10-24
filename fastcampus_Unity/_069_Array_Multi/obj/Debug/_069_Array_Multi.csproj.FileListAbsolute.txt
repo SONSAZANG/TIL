@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_069_Array_Multi\bin\Debug\_069_Array_Multi.exe.config
+C:\fastcampus\FirstProject\_069_Array_Multi\bin\Debug\_069_Array_Multi.exe
+C:\fastcampus\FirstProject\_069_Array_Multi\bin\Debug\_069_Array_Multi.pdb
+C:\fastcampus\FirstProject\_069_Array_Multi\obj\Debug\_069_Array_Multi.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_069_Array_Multi\obj\Debug\_069_Array_Multi.exe
+C:\fastcampus\FirstProject\_069_Array_Multi\obj\Debug\_069_Array_Multi.pdb

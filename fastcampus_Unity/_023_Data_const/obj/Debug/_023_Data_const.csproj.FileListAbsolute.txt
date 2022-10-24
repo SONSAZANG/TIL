@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_023_Data_const\bin\Debug\_023_Data_const.exe.config
+C:\fastcampus\FirstProject\_023_Data_const\bin\Debug\_023_Data_const.exe
+C:\fastcampus\FirstProject\_023_Data_const\bin\Debug\_023_Data_const.pdb
+C:\fastcampus\FirstProject\_023_Data_const\obj\Debug\_023_Data_const.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_023_Data_const\obj\Debug\_023_Data_const.exe
+C:\fastcampus\FirstProject\_023_Data_const\obj\Debug\_023_Data_const.pdb
+C:\fastcampus\FirstProject\_023_Data_const\obj\Debug\_023_Data_const.csproj.AssemblyReference.cache

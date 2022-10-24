@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_041_Operator_null\bin\Debug\_041_Operator_null.exe.config
+C:\fastcampus\FirstProject\_041_Operator_null\bin\Debug\_041_Operator_null.exe
+C:\fastcampus\FirstProject\_041_Operator_null\bin\Debug\_041_Operator_null.pdb
+C:\fastcampus\FirstProject\_041_Operator_null\obj\Debug\_041_Operator_null.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_041_Operator_null\obj\Debug\_041_Operator_null.exe
+C:\fastcampus\FirstProject\_041_Operator_null\obj\Debug\_041_Operator_null.pdb

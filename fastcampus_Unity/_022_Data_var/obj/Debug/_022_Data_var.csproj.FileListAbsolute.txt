@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_022_Data_var\bin\Debug\_022_Data_var.exe.config
+C:\fastcampus\FirstProject\_022_Data_var\bin\Debug\_022_Data_var.exe
+C:\fastcampus\FirstProject\_022_Data_var\bin\Debug\_022_Data_var.pdb
+C:\fastcampus\FirstProject\_022_Data_var\obj\Debug\_022_Data_var.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_022_Data_var\obj\Debug\_022_Data_var.exe
+C:\fastcampus\FirstProject\_022_Data_var\obj\Debug\_022_Data_var.pdb

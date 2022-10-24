@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_033_Check\bin\Debug\_033_Check.exe.config
+C:\fastcampus\FirstProject\_033_Check\bin\Debug\_033_Check.exe
+C:\fastcampus\FirstProject\_033_Check\bin\Debug\_033_Check.pdb
+C:\fastcampus\FirstProject\_033_Check\obj\Debug\_033_Check.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_033_Check\obj\Debug\_033_Check.exe
+C:\fastcampus\FirstProject\_033_Check\obj\Debug\_033_Check.pdb

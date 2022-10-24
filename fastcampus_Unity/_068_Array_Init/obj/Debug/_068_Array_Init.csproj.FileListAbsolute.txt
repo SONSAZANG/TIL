@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_068_Array_Init\bin\Debug\_068_Array_Init.exe.config
+C:\fastcampus\FirstProject\_068_Array_Init\bin\Debug\_068_Array_Init.exe
+C:\fastcampus\FirstProject\_068_Array_Init\bin\Debug\_068_Array_Init.pdb
+C:\fastcampus\FirstProject\_068_Array_Init\obj\Debug\_068_Array_Init.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_068_Array_Init\obj\Debug\_068_Array_Init.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_068_Array_Init\obj\Debug\_068_Array_Init.exe
+C:\fastcampus\FirstProject\_068_Array_Init\obj\Debug\_068_Array_Init.pdb

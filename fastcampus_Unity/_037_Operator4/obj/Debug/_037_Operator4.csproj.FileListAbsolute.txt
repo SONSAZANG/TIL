@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_037_Operator4\bin\Debug\_037_Operator4.exe.config
+C:\fastcampus\FirstProject\_037_Operator4\bin\Debug\_037_Operator4.exe
+C:\fastcampus\FirstProject\_037_Operator4\bin\Debug\_037_Operator4.pdb
+C:\fastcampus\FirstProject\_037_Operator4\obj\Debug\_037_Operator4.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_037_Operator4\obj\Debug\_037_Operator4.exe
+C:\fastcampus\FirstProject\_037_Operator4\obj\Debug\_037_Operator4.pdb

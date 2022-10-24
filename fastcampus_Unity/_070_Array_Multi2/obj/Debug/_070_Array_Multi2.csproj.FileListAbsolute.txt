@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_070_Array_Multi2\bin\Debug\_070_Array_Multi2.exe.config
+C:\fastcampus\FirstProject\_070_Array_Multi2\bin\Debug\_070_Array_Multi2.exe
+C:\fastcampus\FirstProject\_070_Array_Multi2\bin\Debug\_070_Array_Multi2.pdb
+C:\fastcampus\FirstProject\_070_Array_Multi2\obj\Debug\_070_Array_Multi2.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_070_Array_Multi2\obj\Debug\_070_Array_Multi2.exe
+C:\fastcampus\FirstProject\_070_Array_Multi2\obj\Debug\_070_Array_Multi2.pdb

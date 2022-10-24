@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_042_Operator_Branch\bin\Debug\_042_Operator_Branch.exe.config
+C:\fastcampus\FirstProject\_042_Operator_Branch\bin\Debug\_042_Operator_Branch.exe
+C:\fastcampus\FirstProject\_042_Operator_Branch\bin\Debug\_042_Operator_Branch.pdb
+C:\fastcampus\FirstProject\_042_Operator_Branch\obj\Debug\_042_Operator_Branch.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_042_Operator_Branch\obj\Debug\_042_Operator_Branch.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_042_Operator_Branch\obj\Debug\_042_Operator_Branch.exe
+C:\fastcampus\FirstProject\_042_Operator_Branch\obj\Debug\_042_Operator_Branch.pdb

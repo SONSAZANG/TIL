@@ -1,0 +1,13 @@
+C:\fastcampus\FirstProject\_063_Func_out\bin\Debug\netcoreapp3.1\_063_Func_out.exe
+C:\fastcampus\FirstProject\_063_Func_out\bin\Debug\netcoreapp3.1\_063_Func_out.deps.json
+C:\fastcampus\FirstProject\_063_Func_out\bin\Debug\netcoreapp3.1\_063_Func_out.runtimeconfig.json
+C:\fastcampus\FirstProject\_063_Func_out\bin\Debug\netcoreapp3.1\_063_Func_out.runtimeconfig.dev.json
+C:\fastcampus\FirstProject\_063_Func_out\bin\Debug\netcoreapp3.1\_063_Func_out.dll
+C:\fastcampus\FirstProject\_063_Func_out\bin\Debug\netcoreapp3.1\_063_Func_out.pdb
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.AssemblyInfoInputs.cache
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.AssemblyInfo.cs
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.dll
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.pdb
+C:\fastcampus\FirstProject\_063_Func_out\obj\Debug\netcoreapp3.1\_063_Func_out.genruntimeconfig.cache

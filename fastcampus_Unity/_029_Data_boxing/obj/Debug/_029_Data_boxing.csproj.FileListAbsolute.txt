@@ -1,0 +1,7 @@
+C:\fastcampus\FirstProject\_029_Data_boxing\bin\Debug\_029_Data_boxing.exe.config
+C:\fastcampus\FirstProject\_029_Data_boxing\bin\Debug\_029_Data_boxing.exe
+C:\fastcampus\FirstProject\_029_Data_boxing\bin\Debug\_029_Data_boxing.pdb
+C:\fastcampus\FirstProject\_029_Data_boxing\obj\Debug\_029_Data_boxing.csproj.AssemblyReference.cache
+C:\fastcampus\FirstProject\_029_Data_boxing\obj\Debug\_029_Data_boxing.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_029_Data_boxing\obj\Debug\_029_Data_boxing.exe
+C:\fastcampus\FirstProject\_029_Data_boxing\obj\Debug\_029_Data_boxing.pdb

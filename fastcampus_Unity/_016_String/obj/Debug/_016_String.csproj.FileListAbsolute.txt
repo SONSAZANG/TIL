@@ -1,0 +1,6 @@
+C:\fastcampus\FirstProject\_016_String\bin\Debug\_016_String.exe.config
+C:\fastcampus\FirstProject\_016_String\bin\Debug\_016_String.exe
+C:\fastcampus\FirstProject\_016_String\bin\Debug\_016_String.pdb
+C:\fastcampus\FirstProject\_016_String\obj\Debug\_016_String.csproj.CoreCompileInputs.cache
+C:\fastcampus\FirstProject\_016_String\obj\Debug\_016_String.exe
+C:\fastcampus\FirstProject\_016_String\obj\Debug\_016_String.pdb
