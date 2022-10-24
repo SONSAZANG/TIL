@@ -1,0 +1,7 @@
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\bin\Debug\_078_Constructor.exe.config
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\bin\Debug\_078_Constructor.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\bin\Debug\_078_Constructor.pdb
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\obj\Debug\_078_Constructor.csproj.AssemblyReference.cache
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\obj\Debug\_078_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\obj\Debug\_078_Constructor.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_078_Constructor\obj\Debug\_078_Constructor.pdb

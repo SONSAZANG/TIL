@@ -1,0 +1,6 @@
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_079\bin\Debug\_079.exe.config
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_079\bin\Debug\_079.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_079\bin\Debug\_079.pdb
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_079\obj\Debug\_079_this.csproj.CoreCompileInputs.cache
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_079\obj\Debug\_079.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_079\obj\Debug\_079.pdb

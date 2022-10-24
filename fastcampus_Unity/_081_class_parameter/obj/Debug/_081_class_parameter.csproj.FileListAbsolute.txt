@@ -1,0 +1,7 @@
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\bin\Debug\_081_class_parameter.exe.config
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\bin\Debug\_081_class_parameter.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\bin\Debug\_081_class_parameter.pdb
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\obj\Debug\_081_class_parameter.csproj.AssemblyReference.cache
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\obj\Debug\_081_class_parameter.csproj.CoreCompileInputs.cache
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\obj\Debug\_081_class_parameter.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_class_parameter\obj\Debug\_081_class_parameter.pdb
