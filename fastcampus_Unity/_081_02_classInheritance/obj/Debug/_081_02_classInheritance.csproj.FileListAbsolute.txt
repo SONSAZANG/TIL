@@ -1,6 +1,0 @@
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_02_classInheritance\bin\Debug\_081_02_classInheritance.exe.config
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_02_classInheritance\bin\Debug\_081_02_classInheritance.exe
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_02_classInheritance\bin\Debug\_081_02_classInheritance.pdb
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_02_classInheritance\obj\Debug\_081_02_classInheritance.csproj.CoreCompileInputs.cache
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_02_classInheritance\obj\Debug\_081_02_classInheritance.exe
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_02_classInheritance\obj\Debug\_081_02_classInheritance.pdb

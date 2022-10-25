@@ -1,0 +1,6 @@
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_080_static\bin\Debug\_080_static.exe.config
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_080_static\bin\Debug\_080_static.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_080_static\bin\Debug\_080_static.pdb
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_080_static\obj\Debug\_080_static.csproj.CoreCompileInputs.cache
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_080_static\obj\Debug\_080_static.exe
+C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_080_static\obj\Debug\_080_static.pdb

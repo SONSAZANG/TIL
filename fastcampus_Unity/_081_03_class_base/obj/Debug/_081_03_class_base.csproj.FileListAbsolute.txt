@@ -1,6 +1,0 @@
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_03_class_base\bin\Debug\_081_03_class_base.exe.config
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_03_class_base\bin\Debug\_081_03_class_base.exe
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_03_class_base\bin\Debug\_081_03_class_base.pdb
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_03_class_base\obj\Debug\_081_03_class_base.csproj.CoreCompileInputs.cache
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_03_class_base\obj\Debug\_081_03_class_base.exe
-C:\Users\kekek\source\repos\fastcampus\_078_Constructor\_081_03_class_base\obj\Debug\_081_03_class_base.pdb

@@ -38,7 +38,7 @@ namespace _081_class_parameter
             aaa.Print();
 
             aa.Print();
-            
+
         }
 
         static void CopyRefClass(AA aa)

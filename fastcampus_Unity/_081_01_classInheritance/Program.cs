@@ -30,7 +30,7 @@ namespace _081_01_classInheritance
         {
             Super super = new Super();
             super.Print();
-            
+
             Sub sub = new Sub();
             sub.Print();
         }
